@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-🎓 MSc in Data Science @ London School of Economics (LSE)  
+🎓 MSc in Data Science @ London School of Economics and Political Science (LSE)  
 💼 Ex-Senior Consultant @ Deloitte 
 
 ---
